@@ -1,0 +1,53 @@
+# Langchain core
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+tavily-python
+langchain-tavily
+
+# Open AI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Groq integration
+langchain-groq
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+
+# Environment Variables
+python-dotenv
+
+# Machine learning utilities
+numpy
+scikit-learn
+torch
+
+# Vector Database
+faiss-cpu
+chromadb
+langchain-chroma
+
+# LangGraph
+langgraph
+langgraph-cli[inmem]
+
+
+# Extras
+ddgs
+streamlit
+uuid
+pypdf
+tqdm
+bs4

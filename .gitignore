@@ -1,0 +1,9 @@
+downloads/
+chroma_db/
+*.json
+.env
+__pycache__/
+*.pyc
+venv/
+myvenv/
+.ipynb_checkpoints/
